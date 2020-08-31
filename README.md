@@ -12,5 +12,5 @@ A shopping list built using React, to practice React by using functional and cla
 ## Known Issues
 None
 
-# Notes
+## Notes
 N/A
